@@ -2,9 +2,9 @@
 
 ## Getting started ##
 
-* 1. clone this repo
-* 2. npm install
-* 3. npm start
+* clone this repo
+* npm install
+* npm start
 
 ## That's it! ##
 
@@ -44,4 +44,4 @@ You will also see any lint errors in the console.
 Launches the test runner in the interactive watch mode.
 See the section about runnung tests for more information.
 
-This project was bootstrapped with create React App 
+This project was bootstrapped with Create React App 

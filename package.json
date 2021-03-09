@@ -1,0 +1,19 @@
+{
+  "name": "react-jobly",
+  "version": "1.0.0",
+  "description": "* clone this repo\r * npm install\r * npm start",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/arpitapandya/react-jobly.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/arpitapandya/react-jobly/issues"
+  },
+  "homepage": "https://github.com/arpitapandya/react-jobly#readme"
+}
