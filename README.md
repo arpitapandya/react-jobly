@@ -1,5 +1,7 @@
 # Jobly #
 
+[Live App Demo](http://jobly-app.surge.sh/)
+
 ## Getting started ##
 
 * clone this repo
