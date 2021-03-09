@@ -42,6 +42,6 @@ You will also see any lint errors in the console.
 ### npm test ###
 
 Launches the test runner in the interactive watch mode.
-See the section about ~~runnung tests~~ for more information.
+See the section about runnung tests for more information.
 
-This project was bootstrapped with ~~ Create React App ~~
+This project was bootstrapped with create React App 
